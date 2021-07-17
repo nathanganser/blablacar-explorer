@@ -58,7 +58,9 @@ def search_week(from_string, to_string):
 
 app = Flask(__name__)
 
-
+@app.route('/')
+def hello():
+    return jsonify(text="What a wonderful world!")
 @app.route('/explore')
 def explore():
     """

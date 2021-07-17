@@ -5,6 +5,8 @@ from geopy.geocoders import Nominatim
 from geopy import distance
 import datetime
 import math
+from flask import Flask, jsonify, request
+
 
 from dateutil import parser
 load_dotenv()
@@ -52,6 +54,22 @@ def search_week(from_string, to_string):
         trips = make_call(location_from, location_to, start_date.isoformat()).get('trips')
         trip_array += trips
         start_date = start_date + datetime.timedelta(days=1)
-    display_data(trip_array, location_from, location_to)
+    return trip_array
 
-search_week("Paris, France", "Geneve, Suisse")
+app = Flask(__name__)
+
+
+@app.route('/explore')
+def explore():
+    """
+    takes in a json with `from`, `to`
+    :returns:
+    an array of trips
+    """
+    from_ = request.json.get('from')
+    to_ = request.json.get('to')
+    data = search_week(from_, to_)
+    return jsonify(data)
+
+
+app.run()

@@ -1,0 +1,931 @@
+[
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2234645016-milano-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-17T15:20:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Piazza Monte Titano, 6, Milano MI',
+          'latitude': 45.48548,
+          'longitude': 9.238142,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-17T17:50:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Viale Palmiro Togliatti, Bologna BO',
+          'latitude': 44.5013351,
+          'longitude': 11.3028192,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '12.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'BMW',
+      'model': '2 SERIES'
+    },
+    'distance_in_meters': 208760,
+    'duration_in_seconds': 9000
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2234800126-milan-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-17T21:55:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Piazzale Luigi E. Corvetto, 8, Milano MI',
+          'latitude': 45.439506,
+          'longitude': 9.224642,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-18T00:25:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Bologna Zanolini, Bologna BO',
+          'latitude': 44.4978139,
+          'longitude': 11.3594861,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '12.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'CITROEN',
+      'model': 'C1'
+    },
+    'distance_in_meters': 213102,
+    'duration_in_seconds': 9000
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2233990346-como-calderara-di-reno',
+    'waypoints': [
+      {
+        'date_time': '2021-07-18T15:00:00',
+        'place': {
+          'city': 'Côme',
+          'address': 'Via Giovio, 6A, Como CO',
+          'latitude': 45.808059,
+          'longitude': 9.085176,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-18T18:10:00',
+        'place': {
+          'city': 'Calderara di Reno',
+          'address': 'Via Armaroli, 1, Calderara di Reno BO',
+          'latitude': 44.56748,
+          'longitude': 11.272618,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '12.00',
+      'currency': 'EUR'
+    },
+    'distance_in_meters': 264337,
+    'duration_in_seconds': 11400
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2234846651-milan-bologne',
+    'waypoints': [
+      {
+        'date_time': '2021-07-18T16:50:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Zara, Milano MI',
+          'latitude': 45.492664,
+          'longitude': 9.192601,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-18T19:30:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Alfredo Calzoni, 36, Bologna BO',
+          'latitude': 44.512493,
+          'longitude': 11.369143,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '13.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'SEAT',
+      'model': 'IBIZA'
+    },
+    'distance_in_meters': 218741,
+    'duration_in_seconds': 9600
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2233659101-milano-maranello',
+    'waypoints': [
+      {
+        'date_time': '2021-07-18T17:30:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Via Giulio e Corrado Venini, 18, Milano MI',
+          'latitude': 45.48757,
+          'longitude': 9.212501,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-18T19:50:00',
+        'place': {
+          'city': 'Maranello',
+          'address': 'Via Toscana, 120, Maranello MO',
+          'latitude': 44.530666,
+          'longitude': 10.874132,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '5.00',
+      'currency': 'EUR'
+    },
+    'distance_in_meters': 190081,
+    'duration_in_seconds': 8400
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2235202201-milano-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-18T18:30:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'P.za Sei Febbraio, Milano MI',
+          'latitude': 45.477825,
+          'longitude': 9.160782,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-18T21:10:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Alfredo Calzoni, 36, Bologna BO',
+          'latitude': 44.512493,
+          'longitude': 11.369143,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '13.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'PEUGEOT',
+      'model': '2008'
+    },
+    'distance_in_meters': 216670,
+    'duration_in_seconds': 9600
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2235272911-cassina-rizzardi-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-18T20:30:00',
+        'place': {
+          'city': 'Cassina Rizzardi',
+          'address': 'Via Vittorio Emanuele, 10, Cassina Rizzardi CO',
+          'latitude': 45.750736,
+          'longitude': 9.032956,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-18T23:40:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Viale Ilic Uljanov Lenin, 43, Bologna BO',
+          'latitude': 44.49094,
+          'longitude': 11.390835,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '16.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'OPEL',
+      'model': 'CORSA'
+    },
+    'distance_in_meters': 264417,
+    'duration_in_seconds': 11400
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2226903851-erba-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-20T12:20:00',
+        'place': {
+          'city': 'Erba',
+          'address': 'Corso XXV Aprile, 62, Erba CO',
+          'latitude': 45.81039,
+          'longitude': 9.230117,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-20T15:10:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Vitale da Bologna, 1A, Bologna BO',
+          'latitude': 44.49098,
+          'longitude': 11.29107,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '16.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'HYUNDAI',
+      'model': 'I20'
+    },
+    'distance_in_meters': 249335,
+    'duration_in_seconds': 10200
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2232989306-it-it',
+    'waypoints': [
+      {
+        'date_time': '2021-07-20T13:00:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Piazzale Luigi E. Corvetto, 8, Milano MI',
+          'latitude': 45.439507,
+          'longitude': 9.224642,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-20T15:30:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Mazzini, 85, Bologna BO',
+          'latitude': 44.48681,
+          'longitude': 11.366369,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '13.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'FORD',
+      'model': 'FOCUS'
+    },
+    'distance_in_meters': 213269,
+    'duration_in_seconds': 9000
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2234996176-milano-casalecchio-di-reno',
+    'waypoints': [
+      {
+        'date_time': '2021-07-20T17:00:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Piazzale Luigi Emanuele Corvetto, 8, Milano MI',
+          'latitude': 45.44011,
+          'longitude': 9.224746,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-20T19:00:00',
+        'place': {
+          'city': 'Casalecchio di Reno',
+          'address': 'Via Aldo Moro, 64, Casalecchio di Reno BO',
+          'latitude': 44.484924,
+          'longitude': 11.26946,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '10.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'VOLKSWAGEN',
+      'model': 'GOLF'
+    },
+    'distance_in_meters': 201514,
+    'duration_in_seconds': 7200
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2222817867-milano-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-20T18:00:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Milano Rogoredo FS, Milano MI',
+          'latitude': 45.43268,
+          'longitude': 9.24019,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-20T20:30:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Vitale da Bologna, 1A, Bologna BO',
+          'latitude': 44.49098,
+          'longitude': 11.29107,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '10.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'OPEL',
+      'model': 'CORSA'
+    },
+    'distance_in_meters': 211682,
+    'duration_in_seconds': 9000
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2211093798-milano-bologna-2',
+    'waypoints': [
+      {
+        'date_time': '2021-07-20T18:30:00',
+        'place': {
+          'city': 'Milan',
+          'address': "Gare de Milan-Centrale, Piazza Duca d'Aosta, 1, Milano MI",
+          'latitude': 45.487012,
+          'longitude': 9.205479,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-20T21:10:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Alfredo Calzoni, 36, Bologna BO',
+          'latitude': 44.512493,
+          'longitude': 11.369143,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '13.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'MINI',
+      'model': 'COOPER'
+    },
+    'distance_in_meters': 220508,
+    'duration_in_seconds': 9600
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2232247541-milano-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-20T20:00:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Piazza Gerusalemme, 1A, Milano MI',
+          'latitude': 45.484386,
+          'longitude': 9.166708,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-20T22:50:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Alfredo Calzoni, 36, Bologna BO',
+          'latitude': 44.512493,
+          'longitude': 11.369143,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '12.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'RENAULT',
+      'model': 'CAPTUR'
+    },
+    'distance_in_meters': 218817,
+    'duration_in_seconds': 10200
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2233298421-milano-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-20T20:00:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Book taxi malpensa airport, Milano MI',
+          'latitude': 45.464203,
+          'longitude': 9.189982,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-20T22:40:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Vitale da Bologna, 1A, Bologna BO',
+          'latitude': 44.49098,
+          'longitude': 11.29107,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '13.00',
+      'currency': 'EUR'
+    },
+    'distance_in_meters': 210105,
+    'duration_in_seconds': 9600
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2232512946-milano-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-21T12:40:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Piazzale Luigi E. Corvetto, 8, Milano MI',
+          'latitude': 45.439507,
+          'longitude': 9.224642,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-21T14:40:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Vitale da Bologna, 1A, Bologna BO',
+          'latitude': 44.49098,
+          'longitude': 11.29107,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '13.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'FORD',
+      'model': 'KUGA'
+    },
+    'distance_in_meters': 202044,
+    'duration_in_seconds': 7200
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2231977896-assago-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-21T17:00:00',
+        'place': {
+          'city': 'Assago',
+          'address': 'Assago Forum m2, Assago MI',
+          'latitude': 45.400406,
+          'longitude': 9.145965,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-21T19:30:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Michelino, 105, Bologna BO',
+          'latitude': 44.51496,
+          'longitude': 11.372037,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '13.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'BMW',
+      'model': '2 SERIES'
+    },
+    'distance_in_meters': 213361,
+    'duration_in_seconds': 9000
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2234812356-milano-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-21T17:00:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Via Valsolda, 15-1, Milano MI',
+          'latitude': 45.443703,
+          'longitude': 9.167809,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-21T19:40:00',
+        'place': {
+          'city': 'Bologne',
+          'address': "Piazza delle Medaglie d'Oro, 1a, Bologna BO",
+          'latitude': 44.50548,
+          'longitude': 11.342493,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '13.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'JEEP',
+      'model': 'COMPASS'
+    },
+    'distance_in_meters': 218255,
+    'duration_in_seconds': 9600
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2228540411-lipomo-casalecchio-di-reno',
+    'waypoints': [
+      {
+        'date_time': '2021-07-21T17:30:00',
+        'place': {
+          'city': 'Lipomo',
+          'address': 'Via Provinciale per Lecco, 950, Lipomo CO',
+          'latitude': 45.79544,
+          'longitude': 9.125443,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-21T20:30:00',
+        'place': {
+          'city': 'Casalecchio di Reno',
+          'address': 'Tangenziale nord di Bologna, 52, Casalecchio di Reno BO',
+          'latitude': 44.488785,
+          'longitude': 11.268018,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '12.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'SEAT',
+      'model': 'LEON'
+    },
+    'distance_in_meters': 250099,
+    'duration_in_seconds': 10800
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2235200636-rho-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-21T18:40:00',
+        'place': {
+          'city': 'Rho',
+          'address': 'Strada Statale Sempione, 28, Rho MI',
+          'latitude': 45.521107,
+          'longitude': 9.078113,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-21T21:20:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Parco San Donnino, via San Donato (BO), Via S. Donato, 143, Bologna BO',
+          'latitude': 44.507197,
+          'longitude': 11.375785,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '15.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'CHEVROLET',
+      'model': 'EPICA'
+    },
+    'distance_in_meters': 235340,
+    'duration_in_seconds': 9600
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2234515736-sesto-san-giovanni-modena',
+    'waypoints': [
+      {
+        'date_time': '2021-07-21T21:00:00',
+        'place': {
+          'city': 'Sesto San Giovanni',
+          'address': 'Viale Thomas Alva Edison, 50, Sesto San Giovanni MI',
+          'latitude': 45.52496,
+          'longitude': 9.232818,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-21T23:20:00',
+        'place': {
+          'city': 'Modène',
+          'address': 'Via del Pozzo, 71, Modena MO',
+          'latitude': 44.635387,
+          'longitude': 10.942642,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '12.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'FIAT',
+      'model': 'PANDA'
+    },
+    'distance_in_meters': 183354,
+    'duration_in_seconds': 8400
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2226390742-monza-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-22T17:00:00',
+        'place': {
+          'city': 'Monza',
+          'address': 'Viale Elvezia, 1, Monza MB',
+          'latitude': 45.59118,
+          'longitude': 9.253501,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-22T19:40:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Alfredo Calzoni, 36, Bologna BO',
+          'latitude': 44.512493,
+          'longitude': 11.369143,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '12.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'PEUGEOT',
+      'model': '207 SW'
+    },
+    'distance_in_meters': 229912,
+    'duration_in_seconds': 9600
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2234802626-milano-via-larga',
+    'waypoints': [
+      {
+        'date_time': '2021-07-22T17:50:00',
+        'place': {
+          'city': 'Milano',
+          'address': 'Strada Nuova, Strada Provinciale ex Strada Statale 415 Paullese, 9, Milano MI',
+          'latitude': 45.433323,
+          'longitude': 9.262944,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-22T20:20:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Larga, 8, Bologna BO',
+          'latitude': 44.503597,
+          'longitude': 11.397345,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '13.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'SUZUKI',
+      'model': 'SWIFT'
+    },
+    'distance_in_meters': 213333,
+    'duration_in_seconds': 9000
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2216769156-milano-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-23T14:20:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Piazzale Stazione Genova, 4, Milano MI',
+          'latitude': 45.45291,
+          'longitude': 9.169463,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-23T17:00:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Alfredo Calzoni, 36, Bologna BO',
+          'latitude': 44.512493,
+          'longitude': 11.369143,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '12.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'FIAT',
+      'model': '500'
+    },
+    'distance_in_meters': 213995,
+    'duration_in_seconds': 9600
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2234992831-milano-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-23T18:00:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Via Valtorta, 17, Milano MI',
+          'latitude': 45.499252,
+          'longitude': 9.222716,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-23T20:40:00',
+        'place': {
+          'city': 'Bologne',
+          'address': "Piazza delle Medaglie d'Oro, Snc, Bologna BO",
+          'latitude': 44.505905,
+          'longitude': 11.343369,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '13.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'VOLKSWAGEN',
+      'model': 'T-ROC'
+    },
+    'distance_in_meters': 215198,
+    'duration_in_seconds': 9600
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2225497142-milano-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-23T18:40:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Milano Lambrate, Piazza Enrico Bottini, Milano MI',
+          'latitude': 45.4844,
+          'longitude': 9.23679,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-23T21:10:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Michelino, 128, Bologna BO',
+          'latitude': 44.5163,
+          'longitude': 11.3711,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '14.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'VOLKSWAGEN',
+      'model': 'GOLF V'
+    },
+    'distance_in_meters': 214116,
+    'duration_in_seconds': 9000
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2235298916-milano-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-23T19:00:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'P.le Libia dopo Via Tiraboschi, Milano MI',
+          'latitude': 45.454426,
+          'longitude': 9.210116,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-23T21:30:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Alfredo Calzoni, 36, Bologna BO',
+          'latitude': 44.512493,
+          'longitude': 11.369143,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '12.00',
+      'currency': 'EUR'
+    },
+    'vehicle': {
+      'make': 'AUDI',
+      'model': 'Q3'
+    },
+    'distance_in_meters': 211469,
+    'duration_in_seconds': 9000
+  },
+  {
+    'link': 'https://www.blablacar.fr/trip?source=CARPOOLING&id=2221411557-milano-bologna',
+    'waypoints': [
+      {
+        'date_time': '2021-07-23T23:00:00',
+        'place': {
+          'city': 'Milan',
+          'address': 'Piazzale Luigi E. Corvetto, 8, Milano MI',
+          'latitude': 45.439507,
+          'longitude': 9.224642,
+          'country_code': 'IT'
+        }
+      },
+      {
+        'date_time': '2021-07-24T01:00:00',
+        'place': {
+          'city': 'Bologne',
+          'address': 'Via Vitale da Bologna, 1A, Bologna BO',
+          'latitude': 44.49098,
+          'longitude': 11.29107,
+          'country_code': 'IT'
+        }
+      }
+    ],
+    'price': {
+      'amount': '9.00',
+      'currency': 'EUR'
+    },
+    'distance_in_meters': 202044,
+    'duration_in_seconds': 7200
+  }
+]

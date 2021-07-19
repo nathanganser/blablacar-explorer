@@ -100,7 +100,7 @@ def hello():
     return jsonify(text="What a wonderful world!")
 
 
-@app.route('/explore')
+@app.route('/explore', methods=['GET', 'POST'])
 def explore():
     """
     takes in a json with `from`, `to`

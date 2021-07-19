@@ -5,6 +5,8 @@ from geopy.geocoders import Nominatim
 from geopy import distance
 import datetime
 import math
+from flask_cors import CORS
+
 from flask import Flask, jsonify, request
 
 from dateutil import parser
@@ -93,6 +95,8 @@ def search_week(from_string, to_string):
 
 
 app = Flask(__name__)
+CORS(app)
+
 
 
 @app.route('/')

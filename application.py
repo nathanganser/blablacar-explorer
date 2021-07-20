@@ -89,7 +89,8 @@ def search_week(from_string, to_string):
     trip_array = []
     for i in range(0, 7, +1):
         trips = make_call(location_from, location_to, start_date.isoformat()).get('trips')
-        trip_array += trips
+        if trips:
+            trip_array += trips
         start_date = start_date + datetime.timedelta(days=1)
     return trip_array
 
